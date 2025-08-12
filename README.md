@@ -8,10 +8,10 @@ CircleCI is a cloud-based CI/CD platform that automates software builds, tests, 
 
 ## CircleCI Pipeline
 The CircleCI pipeline configuration **(.circleci/config.yml)** includes steps for:
-Installing dependencies
-Running unit and integration tests
-Training the ML model
-Packaging and deployment
+ -Installing dependencies
+ -Running unit and integration tests
+ -Training the ML model
+ -Packaging and deployment
 
 ## How to Run Locally
 1) Clone the repository:
